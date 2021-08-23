@@ -1,0 +1,3 @@
+/Users/aasmc/CLionProjects/StringUtils/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aasmc/CLionProjects/StringUtils/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aasmc/CLionProjects/StringUtils/cmake-build-debug/CMakeFiles/StringUtils.dir

@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/aasmc/CLionProjects/StringUtils
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/aasmc/CLionProjects/StringUtils/cmake-build-debug
